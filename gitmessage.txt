@@ -1,0 +1,20 @@
+################
+
+# 👉 keyword: 설명 #이슈번호
+# 예) feat: 로그인 기능 구현 #19
+
+################
+
+# Commit Keyword
+
+################
+
+# feat : 새로운 기능 추가
+# fix : 버그 및 수정사항 반영
+# docs : 문서 수정
+# settings : 프로젝트 세팅 관련
+# style : CSS 등 사용자 UI 디자인 변경
+# refactor : 코드 리팩토링
+# test : 테스트 코드
+# chore : 기타 수정사항 ex) .gitignore
+# !HOTFIX : 치명적인 버그를 고칠 경우

@@ -1,5 +1,3 @@
-function App() {
-  return <>Sysmetic</>;
-}
+const App = () => <>Sysmetic</>;
 
 export default App;
